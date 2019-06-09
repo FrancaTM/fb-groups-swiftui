@@ -24,6 +24,7 @@
 		25BCF26122AD4E40007DB399 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		25BCF26422AD4E40007DB399 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		25BCF26622AD4E40007DB399 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		25BCF26C22AD7F30007DB399 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -40,6 +41,7 @@
 		25BCF24C22AD4E37007DB399 = {
 			isa = PBXGroup;
 			children = (
+				25BCF26C22AD7F30007DB399 /* README.md */,
 				25BCF25722AD4E38007DB399 /* FBGroupsSwiftUI */,
 				25BCF25622AD4E38007DB399 /* Products */,
 			);
